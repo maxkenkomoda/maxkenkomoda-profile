@@ -17,7 +17,6 @@ index:
   university: 立命館大学  経営学部
   1st_company: 株式会社小田原エンジニアリング　営業部
   2nd_company: 株式会社メトロリー   ITエンジニア
-  career_comment: こう見ると人生より道ばっかりですね。。。
   #Like
   Alpen: アルプス山脈
   Setouchi: 瀬戸内海
@@ -29,10 +28,10 @@ index:
   Bicycle_detail_2: サイクリングのときはより道だいすきです。たまに迷子になります。
   PC_detail: パソコン自作します。
   self_development: 個人開発
-  self_development_detail: 個人でなんか作るの好きなので。。最近は家のことを管理するアプリ開発中です。
+  self_development_detail: 個人でなんか作るの好きです。最近は家事のサポートするアプリを開発中です。
 
 
-  skills_description: 0->1フェーズのスタートアップ企業でフロントエンド開発からバックエンド開発・インフラ構築・運用を経験しました。結構幅ひろくやった気がします。TypeScript大好きです。
+  skills_description: 0->1フェーズのスタートアップ企業でフロントエンド開発からバックエンド開発・インフラ構築・運用を経験しました。<br/>結構幅ひろくやった気がします。TypeScript大好きです。
   skills_description_2: 実は英語喋れます。ドイツ語も日常会話(最近怪しい)ぐらいならできます。
 
   future: やりたいこと・目標
