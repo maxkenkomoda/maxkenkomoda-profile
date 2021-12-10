@@ -9,8 +9,10 @@
 @import 'top_title';
 @import 'self_intro';
 @import 'self_likes';
-@import 'history';
-@import 'skills';
+@import 'self_history';
+@import 'self_skills';
+@import 'self_links';
+@import 'footer';
 
 // definition of breakpoints of Display
 
@@ -43,4 +45,8 @@ p {
 
 .bold {
   font-weight: bold;
+}
+
+.small-comment {
+  margin-top: 10px;
 }

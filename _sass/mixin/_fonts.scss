@@ -24,6 +24,7 @@
 
 @mixin h3 {
   font-family: 'masque';
+  margin-top: 20px;
   @include small-display {
     font-size: 35px;
   }
@@ -35,8 +36,23 @@
   }
 }
 
+@mixin h5 {
+  margin-top: 5px;
+  margin-bottom: 0;
+  @include small-display {
+    font-size: 20px;
+  }
+  @include tablet-display {
+    font-size: 18px;
+  }
+  @include mobile-display {
+    font-size: 16px;
+  }
+}
+
 @mixin p {
-  font-family: 'Franklin Gothic Medium';
+  font-family: 'Noto Sans JP', sans-serif;
+  margin-bottom: 2px;
   @include small-display {
     font-size: 18px;
   }

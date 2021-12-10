@@ -8,7 +8,11 @@ index:
   title: Self Introduce
   greeting: My name is Max Ken Komoda <br/> like creating hardware or software with technologies. <br/> I love cycling and Alps in Europe.
 
+  about_me_1:
+  about_me_2:
+
   career: CAREER
+  high_school: Rakunan High School III-A
   university: Ritsumeikan University -Faculty of Business Administration
   1st_company: Odawara Engineering Co.Ltd,  -Sales Department
   2nd_company: Metroly - IT Engineer
@@ -21,9 +25,16 @@ index:
   Alpen_detail: I love Alps. I did bicycle tour around Germany, Austria, and Italy.
   Setouchi_detail: Seto Island Sea is the place I grew up. Here is my best place in Japan
   Bicycle_detail: I love bicycle. I have 6 bicycles now.
+  Bicycle_detail_2:
   PC_detail: I build my own PC.
+  self_development:
+  self_development_detail:
 
-  skills_description: Skills that I used in past.
+  skills_description: I did frontend/backend development, and Infrastructure construction/operation at very early stage of small start up as engineer. I love TypeScript.
+  skills_description_2: I can use English, and German(a little it).
+
+  life: 人生の目標
+  life: 幸せに生きる。
 
 
 product:
