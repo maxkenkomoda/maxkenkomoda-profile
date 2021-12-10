@@ -1,0 +1,14 @@
+#links {
+  .links-box {
+    margin-top: 20px;
+		display: flex;
+    a {
+      width: auto;
+      img.link-logo {
+        width: 100%;
+        max-width: 100px;
+        margin:auto 20px;
+      }
+    }
+	}
+}

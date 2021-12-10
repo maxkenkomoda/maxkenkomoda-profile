@@ -1,7 +1,13 @@
-.profile {
-  margin-top: 25px;
-  text-align: center;
-  .self-img {
-    width: 30%;
+#about-me {
+  .profile {
+    margin-top: 25px;
+    text-align: center;
+    .self-img {
+      width: 30%;
+    }
+  }
+
+  p {
+    margin-bottom: 10px;
   }
 }
