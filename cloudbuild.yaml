@@ -12,7 +12,7 @@ steps:
       - "run"
       - "deploy"
       - "static-site"
-      - "--image=gcr.io/$PROJECT_ID/static-site"
+      - "--image=asia-northeast2-docker.pkg.dev/$PROJECT_ID/harumax-container-image/static-site"
       - "--region=asia-northeast1"
       - "--platform=managed"
       - "--allow-unauthenticated"
