@@ -1,10 +1,10 @@
 steps:
   #コンテナイメージをビルドする
   - name: "gcr.io/cloud-builders/docker"
-    args: ['build', '-t=gcr.io/$PROJECT_ID/static-site', '--build-arg=JEKYLL_ENV=$_JEKYLL_ENV', '.']
+    args: ['build', '-t=asia-northeast2-docker.pkg.dev/$PROJECT_ID/harumax-container-image/static-site', '--build-arg=JEKYLL_ENV=$_JEKYLL_ENV', '.']
   #コンテナイメージをpushする
   - name: "gcr.io/cloud-builders/docker"
-    args: ["push", "gcr.io/$PROJECT_ID/static-site"]
+    args: ["push", "asia-northeast2-docker.pkg.dev/$PROJECT_ID/harumax-container-image/static-site"]
   #もろもろの設定
   - name: "gcr.io/cloud-builders/gcloud"
     args:
