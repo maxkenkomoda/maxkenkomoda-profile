@@ -1,11 +1,11 @@
 global:
-  name: Ken Komoda
+  name: Max
   top: トップ
   product: product
 
 index:
   title: 自己紹介
-  greeting: 薦田顕と申します。
+  greeting: Maxと申します。
   about_me_1: ハードソフト関係なくなにかしらの技術を使ってなにかを作るのが大好きです。
   about_me_2: モノが壊れたらとりあえずドライバーで分解修理します。<br/>たまにもっと壊れます。最近のスマホは分解しにくいのが悩みです。
   about_me_2: モノが壊れたらとりあえずドライバーで分解修理します。<br/>たまにもっと壊れます。最近のスマホは分解しにくいのが悩みです。
