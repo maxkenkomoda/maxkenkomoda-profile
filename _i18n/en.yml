@@ -1,12 +1,12 @@
 global:
-  name: Max Ken Komoda
+  name: Max
   top: Top
   product: product
 
 
 index:
   title: Self Introduce
-  greeting: My name is Max Ken Komoda <br/> like creating hardware or software with technologies. <br/> I love cycling and Alps in Europe.
+  greeting: My name is Max<br/> like creating hardware or software with technologies. <br/> I love cycling and Alps in Europe.
 
   about_me_1:
   about_me_2:
